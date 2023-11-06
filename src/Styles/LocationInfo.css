@@ -1,0 +1,11 @@
+.location-info{
+    align-items: center;
+    margin: 150px;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 300px;
+    width: 500px;
+    color: rgb(121, 86, 9);
+}
